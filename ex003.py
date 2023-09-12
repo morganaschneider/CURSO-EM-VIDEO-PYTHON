@@ -1,6 +1,4 @@
-n=input('Digite algo')
-print(n.isalnum())
-print(n.islower())
-print(n.isidentifier())
-print(n.isalpha())
-print(n.capitalize())
+n=input('Digite algo:')
+print('È alfanumérico ?',n.isalnum())
+print('Está em minúsculas ?',n.islower())
+
