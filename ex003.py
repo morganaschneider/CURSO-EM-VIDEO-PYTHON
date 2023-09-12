@@ -1,5 +1,5 @@
-n=input('Digite algo:')
-print('O tipo primitivo desse valor é', type(n))
+palavra=input('Digite algo:')
+print('O tipo primitivo desse valor é', type(palavra))
 print('Só tem espaços ?',n.isspace())
 print ('É um numero ?',n.isalnum())
 print ('Está em maiscúlas?',n.isupper())
