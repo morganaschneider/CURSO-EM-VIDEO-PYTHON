@@ -5,4 +5,3 @@ print(f'É um numero?{n.isalnum()}')
 print(f'Está em maiscúlas?{n.isupper()}')
 print(f'Está em minúsculas?{n.islower()}')
 print(f'Está capitalizada?{n.istitle()}')
-
